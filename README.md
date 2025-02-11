@@ -66,7 +66,7 @@ Feel free to contribute by adding more languages or improving error messages.
 Pull requests are welcome!
 
 ## License
-MIT License
+[MIT License](LICENSE)
 ```
 
 ---
