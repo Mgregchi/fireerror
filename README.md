@@ -1,7 +1,7 @@
 
 ---
 
-```md
+
 # FireError
 
 A simple utility to decode Firebase authentication error codes into human-readable messages.
